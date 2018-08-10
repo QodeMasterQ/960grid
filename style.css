@@ -1,0 +1,113 @@
+body {
+    background: #F2F2F4;
+    font-family: sans-serif;
+}
+
+.top-bar {
+    background: #131d29;
+}
+
+.top-bar a {
+    color: white;
+    text-decoration: none;
+}
+.nav-bar {
+    margin-top: 1%;
+}
+.nav-bar a {
+    background: #131d29;
+    color:white;
+    text-decoration: none;
+    border-radius: 10%;
+    padding: 2.5%;
+    
+}
+
+.bar {
+    margin-top: 2%;
+}
+.nav-bar a:hover {
+ background-color: orangered;
+}
+
+.sections h2 {
+    color: #131d29;
+    font-size: 325%;
+}
+
+.sections p {
+    color:gray;
+}
+
+.sections a {
+    background: #131d29;
+    color: white;
+    padding: 3%;
+    border-radius: 10%;
+    text-decoration: none;
+}
+
+.sections a:hover {
+    background-color: orangered;
+}
+
+.bottom {
+    background: #131d29;
+    color: white;
+    margin-top: 8%;
+}
+
+.bottom a {
+    background: #335379;
+    color: white;
+    padding: 3%;
+    border-radius: 10%;
+    text-decoration: none;
+    
+}
+
+.bottom a:hover {
+    background-color: orangered;
+}
+
+.bottom h2 {
+    font-size: 220%;
+    
+}
+
+.bottom p {
+    color: grey;  
+}
+
+.serve {
+    padding: 0%;
+}
+
+.op ul {
+    list-style: none;
+    padding: 0%;
+}
+
+.cal ul {
+    list-style: none;
+    padding: 0%;
+    
+}
+
+.cal img {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 20%;
+    width: 50%;
+    height: 50%;
+}
+
+
+
+.bottom-row {
+    background: black;
+    color: white;
+}
+
+
+

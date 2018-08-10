@@ -1,0 +1,53 @@
+.container_12 .grid_4 a {
+    background: #000066;
+    text-decoration :  none;
+    color: white;
+    border-radius: 10%;
+    padding: 3%;
+    
+}
+.grid_8 a{
+    background: #000066;
+    text-decoration: none;
+    color: white;
+    border-radius: 10%;
+    padding: 2%;
+}
+a:hover {
+    color:orange;
+}
+
+a:active {
+    color:orange;
+}
+
+.container_12 .grid_7 ul a {
+    background: navy;
+    text-decoration: none;
+    color: white;
+    border-radius: 10%;
+    padding: 2%;
+}
+
+.bottom {
+    background: rgb(18, 18, 124);
+}
+
+.container_12 .grid_12 {
+    background: black;
+    color: white;
+}
+
+.bottom .calendar {
+    text-align: left;
+    color:white;
+}
+
+.container_12 .grid_7 ul {
+    margin-top: 10%;
+    margin-left: 18%;
+}
+
+.container_12 .grid_4 h2 {
+    color: navy;
+}
